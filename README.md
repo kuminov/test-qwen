@@ -1,2 +1,3 @@
 # test-qwen
-it's for testing work with qwen
+
+This is a test project for experiments with Qwen Coder.
